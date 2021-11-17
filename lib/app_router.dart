@@ -13,7 +13,10 @@ import 'constants/strings.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter/material.dart';
 
+<<<<<<< HEAD
 //Manage The Routing System
+=======
+>>>>>>> 0941ba15db38a822c5648ed66e4d7be8d51e17f4
 class AppRouter {
   late CharactersRepository charactersRepository;
   late CharactersCubit charactersCubit;
